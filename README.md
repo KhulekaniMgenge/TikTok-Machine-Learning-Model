@@ -1,6 +1,5 @@
-READ ME FILE
-
 # Tik Tok Video Classification algorithm (2023)
+
 Constructing a machine learning algorithm to classify videos as either claim or opinion. Since claim video content are more likely to violates the platform’s terms of service. The model will reduce backlog of user reports and prioritize them more efficiently for review.
 
 # Solution	
